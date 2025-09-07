@@ -1,0 +1,22 @@
+
+========================================
+           UVM TEST SUMMARY             
+========================================
+ Test Name:    uvm_test_top
+ Simulation:                 107721
+----------------------------------------
+ TRANSACTION STATISTICS
+----------------------------------------
+ Total Transactions: 2692
+ Correct:            2692
+ Errors:             0
+ Error Percentage:   0.00%
+----------------------------------------
+ TIMING INFORMATION
+----------------------------------------
+ Simulation Time:    107721 ns
+========================================
+ TEST STATUS: PASSED
+ All checks completed successfully!
+========================================
+
