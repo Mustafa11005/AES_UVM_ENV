@@ -8225,3 +8225,15 @@
 #    Time: 107721 ns  Iteration: 60  Instance: /top
 # 1
 # Break in Task uvm_pkg/uvm_root::run_test at D:/Mentor_Graphics_QuestaSim_2021.1x64/win64/../verilog_src/uvm-1.1d/src/base/uvm_root.svh line 430
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (D:/Mustafa/Projects/Verification/AES_UVM_ENV/UVM/aes_uvm_testing.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (D:/Mustafa/Projects/Verification/AES_UVM_ENV/UVM/aes_uvm_testing.mpf).  File can not be renamed.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (D:/Mustafa/Projects/Verification/AES_UVM_ENV/UVM/aes_uvm_testing.mpf).  File can not be renamed.
+# Saving coverage database on exit...
+# End time: 17:08:13 on Sep 07,2025, Elapsed time: 1:49:02
+# Errors: 3, Warnings: 5
